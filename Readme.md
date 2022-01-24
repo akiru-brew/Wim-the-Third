@@ -1,6 +1,4 @@
 # Wim the Third
-foom
-
 
 ![label](label.png)
 
