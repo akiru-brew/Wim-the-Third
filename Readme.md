@@ -1,6 +1,6 @@
 # Wim the Third
 
-![label](label.png)
+![label](label.jpg)
 
 ## Ingredients
 
