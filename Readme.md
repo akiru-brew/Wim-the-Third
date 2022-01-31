@@ -1,5 +1,3 @@
-# Wim the Third
-
 ![label](label.jpg)
 
 ## Ingredients
@@ -52,6 +50,13 @@ Although I didn't need much water to mash (according to the calculators) I neede
 Adding more water means diluting it too much, but hopefully a longer boil will reduce some of the excess.
 
 ## Fermentation
+It flew through, and looked pretty.
+
+
+[![Fermentation](ferm.jpg)](ferm.mov)
+
+
+I actually had to stop it early as it reached my target FG but fermentation looked like it was going to continue. I didn't want the beer to end up too bitter so transferred the fermenter to a fridge to chill it to 4C.
 
 
 ## Actual figures
@@ -59,20 +64,43 @@ Adding more water means diluting it too much, but hopefully a longer boil will r
 
 | Field       | Target         | Actual |
 | ----------- | ------------- | ---------- |
-| OG          | 1.08      |1.075|
-| FG          | 1.017      |TBD|
-| ABV         | 8.25%    |TBD%|
-| Attenuation | 70%     |86%|
+| OG          | 1.08      |1.070|
+| FG          | 1.017      |1.012|
+| ABV         | 8.25%    |7.6%|
+| Attenuation | 70%     |82%|
 
 ## Graph
 
-TBD
+![Fermentation Graph](graph.jpg)
 
 ## Kegging
 
-I've bought a keg :)
+I've bought a keg :) There's a CO2 canister to go with it :)
+
+![Keg](keg.jpg)
+
+![CO2](co2.jpg)
+
+Filling a keg is multi staged but the cleaning / o2 purging / filling process is simple.
+* Dismantle
+* Clean keg, keg bits and tap with cleaner. rinse
+* reassemble
+* add 5l of sanitiser
+* seal
+* add co2 and burp
+* open tap to purge sanitiser. empty system but don't worry about the foam
+* add co2 and burp x3
+* remove lid, should now be clean and contain co2
+* use auto-siphon to transfer beer, leave siphon tube on base to reduce splashing
+* add lid, pull up and regas
+
+The gas level is specific according to temperate and beer style. This [calculator](https://www.brewersfriend.com/keg-carbonation-calculator/  ) helps.
+
+## Tasting notes
+
+This turned out almost exactly how i hoped it would. deceptively strong and pleasantly sweet. I hoped the cold crash would clear it more, but it's fine. And very nice.
 
 
 ## Lessons learnt
 
-* My kettle sparges during the mash. Al long as I run a whirlpool I can get away with ~1 litre for the manual sparge. This will make mashing easier.
+* My kettle sparges during the mash. As long as I run a whirlpool I can get away with ~1 litre for the manual sparge. This will make mashing easier.
